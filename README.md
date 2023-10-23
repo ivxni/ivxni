@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋/h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">21. A self thaught fullstack web developer with React and node.js from Cyprus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivxnv&label=Profile%20views&color=0e75b6&style=flat" alt="ivxnv" /> </p>
