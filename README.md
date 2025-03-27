@@ -1,5 +1,5 @@
 <h1 align="center">Hi my name is Can👋</h1>
-<h3 align="center">22. A self thaught fullstack web developer with React and node.js.</h3>
+<h3 align="center">22. A self taught fullstack web developer with React and node.js.</h3>
 <h3 align="center"><a href="https://portfolio.web-labs.io/">Click to visit my Portfolio!</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivxnv&label=Profile%20views&color=0e75b6&style=flat" alt="ivxnv" /> </p>
